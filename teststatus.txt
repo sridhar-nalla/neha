@@ -1,0 +1,4 @@
+# Please follow below test strategy
+1. Open First web page
+2. Enter customer credentials
+3. Check login successful or not
